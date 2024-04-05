@@ -2,8 +2,8 @@ package fk;
 
 import java.util.Scanner;
 
-import fk.examples.onlinecasino.Roulette;
-import fk.examples.onlinecasino.WheelOfFortune;
+import fk.Roulette;
+import fk.WheelOfFortune;
 
 public class WheelOfFortuneUseCase {
 public static void main(String[] args) {
@@ -14,7 +14,7 @@ public static void main(String[] args) {
 
         // Menyn
         System.out.println("Välkommen till vårt casino!");
-        System.out.println("Vilket spel vill du spela?");
+        System.out.println("Vilket spel vill du spela idag?");
         System.out.println("1. Wheel of Fortune");
         System.out.println("2. Roulette");
         System.out.print("Ange ditt val (1 eller 2): ");

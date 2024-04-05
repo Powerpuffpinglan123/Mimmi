@@ -2,7 +2,7 @@ package fk;
 
 import java.util.Scanner;
 
-import fk.examples.onlinecasino.WheelOfFortune;
+import fk.WheelOfFortune;
 
 import java.util.Random;
 

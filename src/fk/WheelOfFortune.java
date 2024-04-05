@@ -2,8 +2,8 @@ package fk;
 
 import java.util.Scanner;
 
-import fk.examples.onlinecasino.Player;
-import fk.examples.onlinecasino.Roulette;
+import fk.Player;
+import fk.Roulette;
 
 import java.util.Random;
 
